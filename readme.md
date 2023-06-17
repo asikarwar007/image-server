@@ -36,7 +36,6 @@ The server will start listening on port 8080. You can access it by opening a web
 
 Once the server is running, you can access the images using the following URL pattern:
 
-    ```shell
     http://localhost:8080/image-name.jpg?w=300&h=200&q=80
 
 - image-name.jpg should be replaced with the name of the image file you want to retrieve.
